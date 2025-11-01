@@ -1,2 +1,1 @@
-# freshmen-s-first-repository
-my first repository . used to learn some based opreation.
+this is a change
